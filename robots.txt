@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://solar-installation-dallas-tx.netlify.app/sitemap.xml
